@@ -17,8 +17,7 @@ namespace NewTest
         private int yellowDuration = 5;
         private int redDuration = 4;
         private int rightTurnDuration = 10;
-        //private bool isPeakTime = false;
-
+        
         public Form1()
         {
             InitializeComponent();
